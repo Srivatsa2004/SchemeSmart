@@ -1,5 +1,4 @@
-# Smart Scheme Recommendation System
-
+# SchemeSmart
 **Overview:**
 A full-stack application that recommends government schemes based on user details using Machine Learning.
 
